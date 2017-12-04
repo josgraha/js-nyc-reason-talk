@@ -1,0 +1,11 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open ReasonTalkDemo
+FLG -ppx /Users/jgraham/.nvm/versions/node/v8.6.0/lib/node_modules/bs-platform/lib/bsppx.exe
+S /Users/jgraham/Sys/Projects/ws/_rsnprj/js-nyc-reason-talk/reason-talk-demo/node_modules/bs-platform/lib/ocaml
+B /Users/jgraham/Sys/Projects/ws/_rsnprj/js-nyc-reason-talk/reason-talk-demo/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
